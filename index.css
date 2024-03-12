@@ -1,0 +1,29 @@
+img {
+    border-radius: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+  #aboutsection {
+    color: blue;
+    font-size: 25px;
+}
+
+#skillssection {
+    color: blue;
+    font-size: 25px;
+}
+
+#projectssecton {
+    color: blue;
+    font-size: 25px;
+}
+
+p {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: blue;
+}
